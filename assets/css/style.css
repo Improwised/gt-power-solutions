@@ -1,0 +1,16 @@
+.light {
+  background-color: white;
+}
+
+.dark {
+  background-color: black;
+}
+
+.dark p,
+.dark h5 {
+  color: #fff;
+}
+
+.mb-30 {
+  margin-bottom: 30px;
+}
