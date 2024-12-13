@@ -19,6 +19,7 @@ export default defineNuxtConfig({
           rel: "stylesheet",
           href: "https://fonts.googleapis.com/css?family=Poppins",
         },
+        { rel: "icon", type: "image/x-icon", href: "/logo.png" },
       ],
     },
   },

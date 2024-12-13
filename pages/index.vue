@@ -14,7 +14,7 @@ useHead({
     <div class="main-container h-100 w-100 shadow rounded bg-white">
       <div class="logo mb-3">
         <img
-          src="@/assets/images/logo.png"
+          src="/logo.png"
           alt="Logo"
           width="100"
           height="auto"
