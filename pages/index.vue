@@ -25,7 +25,7 @@ useHead({
         class="d-flex align-items-center justify-content-around flex-column gap-3 mb-3">
         <div class="content-container m-1 text-center">
           <img
-            src="@/assets/images/under-construction-3.png"
+            src="@/assets/images/under-construction-2.png"
             alt="under-construction"
             class="img-fluid content-img" />
         </div>
@@ -46,7 +46,7 @@ useHead({
         </div>
       </div>
       <div class="d-flex align-items-center justify-content-center gap-2">
-        <a
+        <!-- <a
           href="https://facebook.com"
           class="btn rounded bg-primary text-white">
           <i class="fa-brands fa-facebook"></i>
@@ -60,9 +60,9 @@ useHead({
           href="https://wa.me/1234567890"
           class="btn rounded bg-success text-white">
           <i class="fa-brands fa-whatsapp"></i>
-        </a>
+        </a> -->
         <a
-          href="mailto:example@example.com"
+          href="mailto:info@gtpowersolution.com "
           class="btn rounded bg-secondary text-white">
           <i class="fa-solid fa-envelope"></i>
         </a>
